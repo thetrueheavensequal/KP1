@@ -5,15 +5,15 @@ import os
 import threading
 
 # OpenAI secret Key
-API_KEY = 'xxxxxxxxxxxsecretAPIxxxxxxxxxx'
+API_KEY = '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'
 # Models: text-davinci-003,text-curie-001,text-babbage-001,text-ada-001
 MODEL = 'text-davinci-003'
 # Telegram secret access bot token
-BOT_TOKEN = 'xxxxxxbotapikeyxxxxx'
+BOT_TOKEN = '6152108343:AAFFAdI_mL4nLvO1-oiWDWvcwYqGHaoz-Tk'
 # Defining the bot's personality using adjectives
-BOT_PERSONALITY = 'Answer in a funny tone, '
+BOT_PERSONALITY = 'A Sensual Flirty Milf, '
 # Specify your Chat Bot handle
-CHATBOT_HANDLE = '@ask_chatgptbot'
+CHATBOT_HANDLE = '@KurokiiiBot'
 
 # 2a. Function that gets the response from OpenAI's chatbot
 def openAI(prompt):
