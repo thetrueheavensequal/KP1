@@ -7,17 +7,17 @@ import memory
 import asyncio
 
 # OpenAI secret Key
-API_KEY = 'xxxxxxxxxxxsecretAPIxxxxxxxxxx'
+API_KEY = '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'
 # Models: text-davinci-003,text-curie-001,text-babbage-001,text-ada-001
 MODEL = 'text-davinci-003'
 # Telegram secret access bot token
-BOT_TOKEN = 'xxxxxxbotapikeyxxxxx'
+BOT_TOKEN = '6152108343:AAFFAdI_mL4nLvO1-oiWDWvcwYqGHaoz-Tk'
 # Specify all group ID the bot can respond too
-ALLOWED_GROUP_ID = ['-100xxxxxxxx', '-1001xxxxxxxx1']
+ALLOWED_GROUP_ID = ['-1001879499709', '-1001859171071']
 # Specify your Chat Bot handle
-CHATBOT_HANDLE = '@ask_chatgptbot'
+CHATBOT_HANDLE = '@KurokiiiBot'
 # Retrieve last ID message : Create an empty text file named chatgpt.txt, write 1 on the first line of the text file and save it, write the full path of your file below 
-FILENAME = '/xxxxxx/xxxxxxx/xxxxx/chatgpt.txt'
+FILENAME = './PNG/chatgpt.txt'
 
 
 # 2a. Function that gets the response from OpenAI's chatbot
