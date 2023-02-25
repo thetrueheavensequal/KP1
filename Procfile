@@ -1,1 +1,1 @@
-python3 robotV2.py
+worker: python3 robotV2.py
