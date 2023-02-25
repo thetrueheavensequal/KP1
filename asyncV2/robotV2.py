@@ -96,7 +96,7 @@ async def ChatGPTbot():
     # Leave write_history BLANK
     write_history= ''
     
-    tone_list=['Friendly','Professional','Humorous','Sarcastic','Witty','Sassy','Charming','Cheeky','Quirky','Laid-back','Elegant','Playful','Soothing','Intense','Passionate']
+    tone_list=['Friendly', 'Sensual', 'Professional','Humorous','Sarcastic','Witty','Sassy','Charming','Cheeky','Quirky','Laid-back','Elegant','Playful','Soothing','Intense','Passionate']
           
     with open(FILENAME) as f:
         last_update = f.read()
