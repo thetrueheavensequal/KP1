@@ -9,11 +9,13 @@ import json
 
 async def get_channel_messages(chat_id, msg_id):
     # Telegram API ID and Hash (you can get it from my.telegram.org)
-    api_id = 'xxxxxxxx'
-    api_hash = 'xxxxxxxxxxxxxx'
-    session_hash='0KSDgh9xxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxx1dfsHNVugzasdHRShvewqWla889BH='
+    api_id = '24833791'
+    api_hash = '42488cb247a33d13d5f97d6839c8e52b'
+    session_hash= (client.session.save()
+    
+    print(str(session_hash))
     # Identify your bot with his ID number, can be found using this link
-    my_bot_id = 'xxxxxxxxx_my-bot-id-number_xxxxxxxx'
+    my_bot_id = '6152108343'
     # Storing max 3 past messages
     max_memory_message = 3
 
