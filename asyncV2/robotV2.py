@@ -17,7 +17,7 @@ ALLOWED_GROUP_ID = ['-1001879499709', '-1001859171071']
 # Specify your Chat Bot handle
 CHATBOT_HANDLE = '@KurokiiiBot'
 # Retrieve last ID message : Create an empty text file named chatgpt.txt, write 1 on the first line of the text file and save it, write the full path of your file below 
-FILENAME = './PNG/chatgpt.txt'
+FILENAME = 'PNG/chatgpt.txt'
 
 
 # 2a. Function that gets the response from OpenAI's chatbot
