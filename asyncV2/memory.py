@@ -11,7 +11,7 @@ async def get_channel_messages(chat_id, msg_id):
     # Telegram API ID and Hash (you can get it from my.telegram.org)
     api_id = '24833791'
     api_hash = '42488cb247a33d13d5f97d6839c8e52b'
-    session_hash= 'BQC00hwns30uJIsx09bC1lE7Yw-idh9gJ9hMAwF4gdyzwL-P37-xB08N4jD5c-XkAWDz9XC1YAu6tDuRve_ZXBcwn45GmU9UCyc-YQYyx88eXqwNdroQhSnwjzmQKVCn6jD_2tRz452NPqnwXCDwyy-ZEynFF1iCHgH7HEQb7tY8vNPTvBQUib4bTSTN-2RVFyNmgI4Cc6DfhFBhi7hTKocIXN2ioEdMbQCkMZGZz3Z-d4as1BbjWkYlC6ubEM2S9sff02pF3XFnconPowCvFqFRB-NB4laMgY0BHCux_envdTbqhzFTI8vCi3toMHCAy3CgBKaf9KfSyUQJRSNTXsq9AAAAAVZcvoYA'
+    session_hash= '1BVtsOK8Bu8XgqEvxo59eAUQDwl9DEO9lk15A2KAK6SxG9OZhSOqPsVHN_q9CqCNfJwkaPW0MiCOoWrPLi4F1TUfE2vh9jvkFmEdtsdEzemqch9whXlDtI6qz9FY1RyPwiV7gJ5YqGm9KvJHDIUoJwZTqUA3qq4Iyc8BG9PtvCLWXykxnY28AohJNByAoJHqG8oS-0x-H50IfMsApFz2ohLi0ZUk33q72pLEgi2c5wJaJT8oJjqfgcZH33ExLqLVdqiIyGoeDEQxhEiQk5oQrq22RXWVJCrV7LV40JSDepK5jWg29DvfUSWxT2bIKdsKjqdClTZFoPwskv8TUnbXIdRXqgYz3_9c='
     # Identify your bot with his ID number, can be found using this link
     my_bot_id = '6152108343'
     # Storing max 3 past messages
